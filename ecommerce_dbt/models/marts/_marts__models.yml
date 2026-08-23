@@ -1,0 +1,100 @@
+version: 2
+
+models:
+  - name: dim_customers
+    description: Una fila por cliente, deduplicado y con atributos normalizados.
+    columns:
+      - name: customer_id
+        data_tests:
+          - unique
+          - not_null
+
+  - name: dim_products
+    description: Una fila por producto con margen y segmentacion de precio calculados.
+    columns:
+      - name: product_id
+        data_tests:
+          - unique
+          - not_null
+
+  - name: fct_order_items
+    description: >
+      Grano = una fila por linea de pedido. Incluye TODAS las lineas (incluso
+      las que tienen problemas de calidad), con flags explicitos y el importe
+      solo calculado cuando es fiable (is_valid_item = true). Es la tabla base
+      para el resto de marts de negocio.
+    columns:
+      - name: order_item_id
+        data_tests:
+          - unique
+          - not_null
+      - name: net_revenue
+        data_tests:
+          - accepted_range:
+              arguments:
+                min_value: 0
+                inclusive: true
+      - name: product_id
+        data_tests:
+          - relationships:
+              arguments:
+                to: ref('dim_products')
+                field: product_id
+              config:
+                severity: warn  # ~0.4% de lineas referencian productos "fantasma" a proposito
+      - name: customer_id
+        data_tests:
+          - relationships:
+              arguments:
+                to: ref('dim_customers')
+                field: customer_id
+              config:
+                severity: warn  # ~0.3% de pedidos con cliente fantasma / nulo a proposito
+
+  - name: fct_orders
+    description: Una fila por pedido, con metricas de ingresos agregadas desde fct_order_items.
+    columns:
+      - name: order_id
+        data_tests:
+          - unique
+          - not_null
+      - name: net_revenue
+        data_tests:
+          - accepted_range:
+              arguments:
+                min_value: 0
+                inclusive: true
+
+  - name: mart_monthly_revenue
+    description: Ingresos netos mensuales, con corte por categoria de producto y canal.
+    columns:
+      - name: net_revenue
+        data_tests:
+          - accepted_range:
+              arguments:
+                min_value: 0
+                inclusive: true
+
+  - name: mart_customer_summary
+    description: Una fila por cliente con metricas de ciclo de vida (RFM simplificado).
+    columns:
+      - name: customer_id
+        data_tests:
+          - unique
+          - not_null
+      - name: customer_type
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ["never_purchased", "one_time", "repeat"]
+
+  - name: mart_customer_cohorts
+    description: Retencion de clientes por cohorte de mes de alta (analisis tipo cohort chart).
+    columns:
+      - name: retention_rate
+        data_tests:
+          - accepted_range:
+              arguments:
+                min_value: 0
+                max_value: 1
+                inclusive: true

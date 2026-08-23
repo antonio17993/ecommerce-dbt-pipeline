@@ -1,0 +1,607 @@
+product_id,product_name,category,subcategory,unit_cost,unit_price,is_active
+1,Pantalones Comunidad 1,moda,Pantalones,58.06,158.28,True
+2,Ciclismo Acuerdo 2,deporte,Ciclismo,110.6,243.1,True
+3,Calzado Meses 3,MODA,Calzado,25.93,39.78,True
+4,Muebles Menos 4,Hogar,Muebles,11.54,,True
+5,Maquillaje Orden 5,Belleza,Maquillaje,91.36,215.8,True
+6,Maquillaje Pudo 6,belleza,Maquillaje,6.03,16.61,True
+7,Running Espera 7,deporte,Running,125.37,202.91,True
+8,Cocina Vida 8,hogar,Cocina,29.73,46.83,True
+9,Fitness Futuro 9,Deporte,Fitness,47.72,99.6,True
+10,Auriculares Distintas 10,electronica,Auriculares,66.5,115.5,True
+11,Smartphones Principales 11,electronica,Smartphones,92.94,140.27,True
+12,Auriculares Estamos 12,Electronica,Auriculares,45.95,84.99,True
+13,Running Sola 13,DEPORTE,Running,70.04,173.54,True
+14,Cuidado facial Obra 14,Belleza,Cuidado facial,32.35,67.01,True
+15,Cuidado facial Riesgo 15,BELLEZA,Cuidado facial,90.08,123.38,True
+16,Muebles Público 16,Hogar,Muebles,-92.31,,True
+17,Maquillaje Ahí 17,Belleza,Maquillaje,12.56,34.21,False
+18,Smartphones Nivel 18,electronica,Smartphones,144.95,364.2,True
+19,Perfumes Santa 19,belleza,Perfumes,47.78,,True
+20,Running Existe 20,deporte,Running,103.58,203.04,True
+21,Ciclismo Español 21,DEPORTE,Ciclismo,20.94,42.78,True
+22,Cocina Cuestión 22,Hogar,Cocina,8.06,21.47,True
+23,Perfumes Llegó 23,Belleza,Perfumes,41.04,94.14,True
+24,Ciclismo Región 24,DEPORTE,Ciclismo,48.82,101.55,True
+25,Maquillaje Nombre 25,Belleza,Maquillaje,83.37,131.5,True
+26,Camisetas Comunicación 26,Moda,Camisetas,145.53,,True
+27,Cocina Da 27,Hogar,Cocina,141.11,372.85,True
+28,Perfumes Color 28,Belleza,Perfumes,90.89,243.84,True
+29,Perfumes Todo 29,BELLEZA,Perfumes,16.01,25.52,True
+30,Accesorios Libros 30,ELECTRONICA,Accesorios,9.65,17.25,True
+31,Accesorios Mejor 31,electronica,Accesorios,60.14,102.66,True
+32,Perfumes Política 32,BELLEZA,Perfumes,124.82,229.06,True
+33,Portatiles Presente 33,ELECTRONICA,Portatiles,44.3,93.65,True
+34,Perfumes Equipo 34,BELLEZA,Perfumes,23.72,59.38,True
+35,Perfumes Le 35,BELLEZA,Perfumes,13.96,38.81,True
+36,Muebles Importante 36,hogar,Muebles,116.52,186.21,True
+37,Ciclismo Rodríguez 37,DEPORTE,Ciclismo,3.81,9.61,True
+38,Muebles Tampoco 38,Hogar,Muebles,106.91,255.89,True
+39,Fitness Común 39,deporte,Fitness,116.38,164.22,True
+40,Decoracion Amor 40,hogar,Decoracion,55.69,82.08,True
+41,Accesorios Régimen 41,electronica,Accesorios,129.88,290.27,True
+42,Accesorios Dicho 42,electronica,Accesorios,51.64,72.06,True
+43,Maquillaje Hemos 43,belleza,Maquillaje,48.71,87.08,True
+44,Auriculares Generales 44,ELECTRONICA,Auriculares,110.25,248.76,True
+45,Ciclismo Corazón 45,deporte,Ciclismo,133.42,267.95,True
+46,Camisetas Sea 46,moda,Camisetas,20.58,48.77,True
+47,Camisetas Comunicación 47,MODA,Camisetas,114.84,245.98,True
+48,Pantalones Muestra 48,moda,Pantalones,116.33,237.39,True
+49,Ciclismo Primero 49,DEPORTE,Ciclismo,79.84,154.99,True
+50,Portatiles Efecto 50,ELECTRONICA,Portatiles,6.74,9.85,True
+51,Pantalones Régimen 51,Moda,Pantalones,7.62,17.18,True
+52,Decoracion Interés 52,hogar,Decoracion,49.21,101.51,True
+53,Auriculares Compañía 53,electronica,Auriculares,136.41,228.34,True
+54,Camisetas Manos 54,moda,Camisetas,-63.33,154.1,True
+55,Muebles Primer 55,HOGAR,Muebles,36.63,51.85,True
+56,Perfumes Fecha 56,BELLEZA,Perfumes,45.59,70.29,True
+57,Smartphones Tales 57,Electronica,Smartphones,139.67,350.88,True
+58,Ciclismo Momentos 58,Deporte,Ciclismo,96.11,250.58,False
+59,Accesorios de moda Millones 59,moda,Accesorios de moda,121.14,191.38,True
+60,Maquillaje Debe 60,BELLEZA,Maquillaje,134.21,283.05,True
+61,Smartphones Natural 61,ELECTRONICA,Smartphones,121.69,321.77,True
+62,Accesorios de moda Cierto 62,MODA,Accesorios de moda,49.75,72.89,True
+63,Auriculares Aspecto 63,electronica,Auriculares,36.51,70.85,True
+64,Auriculares Dinero 64,ELECTRONICA,Auriculares,123.25,319.35,True
+65,Auriculares Muerte 65,ELECTRONICA,Auriculares,4.02,8.31,True
+66,Pantalones Resulta 66,MODA,Pantalones,64.36,105.11,True
+67,Accesorios de moda Mí 67,MODA,Accesorios de moda,20.62,37.25,True
+68,Accesorios Me 68,Electronica,Accesorios,141.61,252.75,True
+69,Accesorios de moda Tribunal 69,MODA,Accesorios de moda,79.26,186.62,True
+70,Cocina Habían 70,Hogar,Cocina,-56.45,155.67,True
+71,Accesorios de moda Domingo 71,MODA,Accesorios de moda,144.48,242.39,True
+72,Ciclismo Ministro 72,DEPORTE,Ciclismo,76.1,133.28,True
+73,Muebles Política 73,Hogar,Muebles,44.87,60.81,True
+74,Camisetas Favor 74,Moda,Camisetas,92.61,190.22,True
+75,Pantalones Por 75,moda,Pantalones,10.57,18.16,True
+76,Decoracion Algunas 76,Hogar,Decoracion,136.52,226.53,True
+77,Accesorios Policía 77,Electronica,Accesorios,24.3,49.43,True
+78,Ciclismo Modelo 78,deporte,Ciclismo,147.89,245.95,True
+79,Muebles Políticos 79,hogar,Muebles,101.8,248.64,True
+80,Pantalones Doctor 80,Moda,Pantalones,37.93,90.74,True
+81,Pantalones Área 81,MODA,Pantalones,57.06,128.3,True
+82,Maquillaje Popular 82,BELLEZA,Maquillaje,96.13,202.23,True
+83,Camisetas Diferentes 83,MODA,Camisetas,16.27,41.54,True
+84,Smartphones Valor 84,ELECTRONICA,Smartphones,50.15,79.23,True
+85,Pantalones Económico 85,MODA,Pantalones,8.99,19.66,True
+86,Camisetas Material 86,Moda,Camisetas,102.6,135.93,True
+87,Accesorios de moda Pueden 87,moda,Accesorios de moda,78.28,128.36,True
+88,Pantalones N 88,Moda,Pantalones,97.84,152.78,True
+89,Cuidado facial M 89,Belleza,Cuidado facial,104.57,196.6,True
+90,Muebles Línea 90,Hogar,Muebles,140.7,211.93,True
+91,Accesorios Medio 91,electronica,Accesorios,53.14,78.13,True
+92,Decoracion Clase 92,HOGAR,Decoracion,138.93,363.44,True
+93,Fitness Temas 93,Deporte,Fitness,40.92,93.71,True
+94,Accesorios de moda Ésta 94,MODA,Accesorios de moda,123.13,262.61,True
+95,Running Varios 95,Deporte,Running,80.86,134.45,True
+96,Fitness Menor 96,DEPORTE,Fitness,16.69,44.16,True
+97,Ciclismo Campo 97,deporte,Ciclismo,135.36,304.51,True
+98,Cuidado facial Obras 98,BELLEZA,Cuidado facial,52.84,96.37,True
+99,Perfumes Mucha 99,BELLEZA,Perfumes,109.72,290.28,True
+100,Camisetas Martín 100,Moda,Camisetas,133.4,329.47,True
+101,Auriculares Serie 101,ELECTRONICA,Auriculares,97.38,138.88,True
+102,Portatiles Norte 102,ELECTRONICA,Portatiles,26.76,70.86,True
+103,Accesorios Cuenta 103,ELECTRONICA,Accesorios,92.15,121.07,True
+104,Accesorios de moda Área 104,moda,Accesorios de moda,17.92,41.13,True
+105,Perfumes Pasar 105,Belleza,Perfumes,3.74,5.76,True
+106,Accesorios de moda Central 106,MODA,Accesorios de moda,83.66,195.58,True
+107,Muebles Fueron 107,Hogar,Muebles,98.84,161.74,True
+108,Accesorios Necesidad 108,electronica,Accesorios,107.69,178.32,True
+109,Portatiles Has 109,electronica,Portatiles,50.83,123.0,True
+110,Fitness Razón 110,deporte,Fitness,98.5,253.52,True
+111,Calzado No 111,Moda,Calzado,99.67,214.54,True
+112,Muebles Políticas 112,Hogar,Muebles,16.77,31.05,True
+113,Muebles Blanca 113,HOGAR,Muebles,41.98,69.94,True
+114,Cuidado facial Uno 114,belleza,Cuidado facial,146.03,275.95,True
+115,Running Ahí 115,DEPORTE,Running,134.13,301.35,True
+116,Portatiles Realidad 116,electronica,Portatiles,119.84,246.15,False
+117,Pantalones Trata 117,MODA,Pantalones,87.8,179.0,True
+118,Decoracion Bajo 118,HOGAR,Decoracion,31.7,75.56,True
+119,Cuidado facial Proceso 119,belleza,Cuidado facial,44.27,59.17,False
+120,Pantalones Casi 120,moda,Pantalones,97.88,153.25,True
+121,Portatiles Verdad 121,Electronica,Portatiles,141.25,385.74,True
+122,Cuidado facial Elementos 122,BELLEZA,Cuidado facial,137.49,255.08,True
+123,Calzado Conciencia 123,Moda,Calzado,5.27,14.19,True
+124,Maquillaje Sean 124,belleza,Maquillaje,65.94,181.33,True
+125,Smartphones Costa 125,ELECTRONICA,Smartphones,144.65,373.13,True
+126,Fitness Ellos 126,deporte,Fitness,46.28,86.9,True
+127,Maquillaje Iglesia 127,Belleza,Maquillaje,128.12,227.46,True
+128,Portatiles Dice 128,electronica,Portatiles,27.92,59.61,True
+129,Cocina Condiciones 129,Hogar,Cocina,140.61,329.6,True
+130,Calzado Diez 130,MODA,Calzado,86.8,125.49,True
+131,Accesorios de moda Aquellos 131,MODA,Accesorios de moda,93.41,260.15,True
+132,Fitness Experiencia 132,DEPORTE,Fitness,23.59,49.01,True
+133,Auriculares Etapa 133,electronica,Auriculares,131.97,318.2,True
+134,Muebles Tomar 134,Hogar,Muebles,105.46,248.22,True
+135,Muebles Muerto 135,hogar,Muebles,55.85,97.2,True
+136,Smartphones Por 136,electronica,Smartphones,121.98,306.8,True
+137,Calzado Podrá 137,MODA,Calzado,130.46,348.31,True
+138,Accesorios Ideas 138,Electronica,Accesorios,78.17,160.43,True
+139,Accesorios de moda Santiago 139,MODA,Accesorios de moda,120.35,273.79,True
+140,Portatiles Fútbol 140,Electronica,Portatiles,106.19,264.8,True
+141,Cocina Chile 141,Hogar,Cocina,133.83,241.83,True
+142,Cuidado facial Cuestión 142,BELLEZA,Cuidado facial,58.21,83.88,True
+143,Perfumes Quiero 143,Belleza,Perfumes,88.01,119.16,True
+144,Maquillaje Toma 144,BELLEZA,Maquillaje,71.44,151.02,True
+145,Perfumes Mí 145,belleza,Perfumes,45.12,98.64,True
+146,Perfumes Humano 146,belleza,Perfumes,7.48,10.14,True
+147,Calzado Parece 147,moda,Calzado,123.92,228.05,True
+148,Accesorios de moda Policía 148,MODA,Accesorios de moda,21.68,45.17,True
+149,Cocina Argentina 149,hogar,Cocina,116.19,188.66,True
+150,Auriculares Ya 150,ELECTRONICA,Auriculares,94.56,135.03,True
+151,Portatiles Fondo 151,electronica,Portatiles,10.6,22.23,True
+152,Accesorios Dónde 152,electronica,Accesorios,82.47,186.06,True
+153,Cuidado facial Año 153,BELLEZA,Cuidado facial,109.74,303.3,True
+154,Fitness Hicieron 154,deporte,Fitness,78.9,140.79,False
+155,Auriculares Orden 155,electronica,Auriculares,119.89,204.56,True
+156,Fitness Económica 156,Deporte,Fitness,67.53,95.74,True
+157,Cocina Bien 157,Hogar,Cocina,6.73,18.47,True
+158,Cocina Alguna 158,HOGAR,Cocina,125.89,295.08,True
+159,Cocina Sol 159,Hogar,Cocina,63.12,98.46,True
+160,Running Hospital 160,Deporte,Running,26.0,43.56,True
+161,Decoracion Hacen 161,hogar,Decoracion,83.74,198.62,True
+162,Accesorios Santiago 162,electronica,Accesorios,100.05,172.08,True
+163,Decoracion Humano 163,hogar,Decoracion,143.37,345.07,True
+164,Maquillaje Causa 164,BELLEZA,Maquillaje,84.49,187.36,True
+165,Maquillaje Vio 165,Belleza,Maquillaje,64.68,108.12,True
+166,Pantalones Esa 166,moda,Pantalones,55.33,134.83,True
+167,Cocina Afirmó 167,hogar,Cocina,5.12,7.55,True
+168,Decoracion Vía 168,hogar,Decoracion,9.76,13.28,True
+169,Accesorios Vez 169,ELECTRONICA,Accesorios,128.75,,True
+170,Cocina Edad 170,Hogar,Cocina,72.7,105.18,False
+171,Pantalones Salir 171,moda,Pantalones,75.27,151.31,True
+172,Maquillaje Menor 172,belleza,Maquillaje,28.46,55.52,False
+173,Accesorios de moda Último 173,Moda,Accesorios de moda,61.58,136.94,True
+174,Cocina Obra 174,Hogar,Cocina,96.36,131.82,False
+175,Fitness Ojos 175,Deporte,Fitness,58.07,130.01,True
+176,Cocina Vuelta 176,HOGAR,Cocina,76.96,198.92,True
+177,Maquillaje Acerca 177,BELLEZA,Maquillaje,99.83,154.18,True
+178,Auriculares He 178,electronica,Auriculares,13.37,30.26,True
+179,Fitness Cambios 179,Deporte,Fitness,6.9,15.03,True
+180,Accesorios Lenguaje 180,ELECTRONICA,Accesorios,141.21,305.47,True
+181,Portatiles Tratamiento 181,ELECTRONICA,Portatiles,60.06,136.03,True
+182,Cocina Hacerlo 182,HOGAR,Cocina,70.36,149.05,False
+183,Pantalones Obra 183,Moda,Pantalones,141.4,265.71,True
+184,Smartphones Mí 184,ELECTRONICA,Smartphones,144.3,383.55,True
+185,Running Cambios 185,DEPORTE,Running,31.78,44.62,True
+186,Calzado Campaña 186,MODA,Calzado,17.81,23.64,True
+187,Running Difícil 187,Deporte,Running,16.88,39.24,True
+188,Decoracion Frente 188,HOGAR,Decoracion,13.46,23.94,True
+189,Camisetas También 189,Moda,Camisetas,127.2,169.8,True
+190,Smartphones Elementos 190,Electronica,Smartphones,122.73,211.44,True
+191,Running Esos 191,deporte,Running,20.37,47.77,True
+192,Perfumes Fuerte 192,belleza,Perfumes,95.45,249.72,True
+193,Perfumes Verdad 193,BELLEZA,Perfumes,111.06,278.23,True
+194,Smartphones Sí 194,electronica,Smartphones,44.46,69.63,True
+195,Running Pequeño 195,deporte,Running,113.34,284.51,True
+196,Accesorios Muchos 196,Electronica,Accesorios,148.6,285.15,True
+197,Camisetas D 197,moda,Camisetas,57.69,142.18,True
+198,Decoracion Ocasión 198,Hogar,Decoracion,53.1,143.16,True
+199,Pantalones Concepto 199,MODA,Pantalones,129.19,251.08,True
+200,Portatiles Él 200,electronica,Portatiles,113.38,275.72,True
+201,Accesorios de moda Propuesta 201,Moda,Accesorios de moda,18.16,48.19,True
+202,Cocina Particular 202,hogar,Cocina,77.27,196.24,True
+203,Smartphones Están 203,Electronica,Smartphones,-50.05,132.3,True
+204,Auriculares Menor 204,ELECTRONICA,Auriculares,60.21,79.25,True
+205,Accesorios de moda Ministro 205,moda,Accesorios de moda,136.09,195.55,False
+206,Perfumes Ni 206,Belleza,Perfumes,49.94,136.09,True
+207,Accesorios Grandes 207,Electronica,Accesorios,142.74,308.34,True
+208,Cocina Mí 208,HOGAR,Cocina,95.88,189.14,True
+209,Perfumes Cuerpo 209,belleza,Perfumes,46.1,82.66,True
+210,Cuidado facial Cantidad 210,belleza,Cuidado facial,101.86,247.37,True
+211,Cuidado facial Libros 211,belleza,Cuidado facial,119.36,296.54,True
+212,Accesorios de moda Especialmente 212,moda,Accesorios de moda,16.41,33.5,True
+213,Perfumes Valor 213,BELLEZA,Perfumes,11.46,24.34,True
+214,Portatiles Nuevos 214,Electronica,Portatiles,67.9,178.68,True
+215,Smartphones Mundo 215,electronica,Smartphones,54.58,80.54,True
+216,Calzado Resto 216,MODA,Calzado,24.02,58.66,True
+217,Portatiles Fiscal 217,electronica,Portatiles,93.88,136.28,False
+218,Pantalones Creación 218,MODA,Pantalones,15.36,36.12,True
+219,Ciclismo Qué 219,deporte,Ciclismo,13.7,34.7,True
+220,Perfumes Señor 220,BELLEZA,Perfumes,106.82,151.9,True
+221,Auriculares Costa 221,electronica,Auriculares,15.47,43.01,True
+222,Muebles Muestra 222,hogar,Muebles,58.02,107.68,True
+223,Muebles E 223,HOGAR,Muebles,122.48,333.25,True
+224,Decoracion Dice 224,hogar,Decoracion,147.94,359.5,True
+225,Ciclismo Aire 225,DEPORTE,Ciclismo,58.31,83.11,True
+226,Pantalones Algo 226,Moda,Pantalones,117.24,250.61,True
+227,Fitness Grupos 227,deporte,Fitness,65.36,,True
+228,Cuidado facial Gobierno 228,belleza,Cuidado facial,19.35,39.45,True
+229,Fitness Necesario 229,DEPORTE,Fitness,4.67,9.35,True
+230,Smartphones Ello 230,Electronica,Smartphones,11.28,16.67,True
+231,Accesorios Antes 231,ELECTRONICA,Accesorios,20.28,46.11,True
+232,Auriculares Cuya 232,electronica,Auriculares,112.67,245.06,True
+233,Auriculares Españoles 233,Electronica,Auriculares,144.44,268.99,True
+234,Muebles Nadie 234,HOGAR,Muebles,45.0,117.13,True
+235,Portatiles Decía 235,electronica,Portatiles,35.87,98.46,True
+236,Accesorios Nuevas 236,ELECTRONICA,Accesorios,4.79,13.2,True
+237,Calzado Falta 237,MODA,Calzado,9.34,24.63,True
+238,Decoracion B 238,hogar,Decoracion,80.57,224.75,True
+239,Auriculares Del 239,Electronica,Auriculares,13.85,29.51,True
+240,Muebles Especialmente 240,HOGAR,Muebles,145.49,303.3,True
+241,Maquillaje Primeros 241,belleza,Maquillaje,95.52,223.86,True
+242,Camisetas Contenido 242,MODA,Camisetas,69.82,156.49,True
+243,Decoracion Trabajar 243,HOGAR,Decoracion,-88.89,235.71,True
+244,Ciclismo Presidente 244,Deporte,Ciclismo,9.68,16.66,True
+245,Camisetas Finalmente 245,MODA,Camisetas,142.71,376.1,True
+246,Running Pequeña 246,DEPORTE,Running,69.98,156.07,True
+247,Accesorios de moda Miembros 247,Moda,Accesorios de moda,43.78,69.27,True
+248,Decoracion Conciencia 248,Hogar,Decoracion,71.16,,True
+249,Accesorios de moda Amigos 249,Moda,Accesorios de moda,88.8,125.79,True
+250,Pantalones Nuestro 250,MODA,Pantalones,146.24,406.45,True
+251,Running Españoles 251,Deporte,Running,105.63,222.26,True
+252,Ciclismo Mira 252,Deporte,Ciclismo,48.5,122.25,True
+253,Cuidado facial Viejo 253,belleza,Cuidado facial,103.66,,True
+254,Camisetas Origen 254,moda,Camisetas,136.91,346.9,True
+255,Muebles Juez 255,HOGAR,Muebles,142.62,340.66,True
+256,Fitness Difícil 256,deporte,Fitness,93.17,179.57,True
+257,Perfumes De 257,belleza,Perfumes,140.11,364.16,True
+258,Maquillaje Problemas 258,BELLEZA,Maquillaje,9.65,12.93,True
+259,Smartphones Lejos 259,Electronica,Smartphones,58.34,146.77,True
+260,Decoracion Dado 260,HOGAR,Decoracion,148.13,225.99,True
+261,Cocina Alta 261,HOGAR,Cocina,90.34,169.06,True
+262,Perfumes Alguna 262,Belleza,Perfumes,145.58,373.15,True
+263,Accesorios Prensa 263,Electronica,Accesorios,126.23,252.84,True
+264,Cocina Reunión 264,hogar,Cocina,63.98,109.41,True
+265,Auriculares Mujer 265,Electronica,Auriculares,11.29,29.32,True
+266,Fitness Pesetas 266,DEPORTE,Fitness,122.5,342.95,True
+267,Maquillaje Económica 267,Belleza,Maquillaje,149.51,318.93,True
+268,Accesorios Comunidad 268,ELECTRONICA,Accesorios,116.04,315.3,True
+269,Cuidado facial Tenemos 269,belleza,Cuidado facial,127.9,213.72,True
+270,Running Cabeza 270,Deporte,Running,69.23,103.41,True
+271,Portatiles Hicieron 271,ELECTRONICA,Portatiles,143.25,316.48,True
+272,Auriculares Sur 272,electronica,Auriculares,36.61,84.48,True
+273,Running Partir 273,DEPORTE,Running,93.86,172.44,True
+274,Portatiles Meses 274,Electronica,Portatiles,19.69,45.43,True
+275,Perfumes Dicen 275,BELLEZA,Perfumes,79.49,195.42,True
+276,Cocina Defensa 276,hogar,Cocina,79.46,204.87,True
+277,Ciclismo Madre 277,deporte,Ciclismo,84.13,180.16,True
+278,Pantalones Puesto 278,moda,Pantalones,131.87,251.24,True
+279,Portatiles Da 279,electronica,Portatiles,22.7,30.49,True
+280,Maquillaje Padres 280,belleza,Maquillaje,114.01,254.3,False
+281,Muebles Libre 281,Hogar,Muebles,106.5,172.47,True
+282,Cocina Justicia 282,Hogar,Cocina,23.05,30.47,True
+283,Accesorios Trata 283,ELECTRONICA,Accesorios,54.54,119.16,True
+284,Running República 284,DEPORTE,Running,60.66,118.66,True
+285,Accesorios Interés 285,ELECTRONICA,Accesorios,135.91,247.68,True
+286,Perfumes Presidente 286,BELLEZA,Perfumes,78.56,194.47,True
+287,Cocina Características 287,HOGAR,Cocina,61.29,136.87,True
+288,Decoracion Septiembre 288,Hogar,Decoracion,129.77,353.53,True
+289,Camisetas Ciudad 289,moda,Camisetas,24.62,66.22,True
+290,Pantalones Calidad 290,moda,Pantalones,75.34,127.13,True
+291,Perfumes A 291,BELLEZA,Perfumes,70.49,195.26,True
+292,Camisetas Señor 292,Moda,Camisetas,75.41,135.22,True
+293,Cuidado facial Centros 293,Belleza,Cuidado facial,96.11,159.56,False
+294,Smartphones Términos 294,electronica,Smartphones,14.15,21.13,True
+295,Maquillaje Duda 295,Belleza,Maquillaje,21.82,33.34,True
+296,Maquillaje Resultados 296,Belleza,Maquillaje,23.41,52.94,False
+297,Auriculares Universidad 297,ELECTRONICA,Auriculares,29.74,54.08,True
+298,Decoracion Ver 298,HOGAR,Decoracion,134.83,271.14,True
+299,Smartphones Tras 299,ELECTRONICA,Smartphones,101.13,157.61,True
+300,Portatiles Donde 300,ELECTRONICA,Portatiles,31.27,42.57,True
+301,Camisetas Cultural 301,moda,Camisetas,27.83,47.81,True
+302,Smartphones Paz 302,electronica,Smartphones,29.02,41.59,False
+303,Maquillaje Compañía 303,Belleza,Maquillaje,20.73,41.28,True
+304,Accesorios de moda Cosa 304,MODA,Accesorios de moda,33.33,61.54,True
+305,Ciclismo Gran 305,Deporte,Ciclismo,77.0,179.84,True
+306,Accesorios Siguientes 306,ELECTRONICA,Accesorios,8.78,21.94,True
+307,Ciclismo Juicio 307,deporte,Ciclismo,95.3,135.58,True
+308,Running Miembros 308,DEPORTE,Running,131.42,352.38,True
+309,Muebles Ahí 309,HOGAR,Muebles,11.98,,True
+310,Smartphones Tomar 310,ELECTRONICA,Smartphones,121.51,294.34,True
+311,Fitness Especie 311,DEPORTE,Fitness,30.12,48.61,True
+312,Running Seguir 312,DEPORTE,Running,57.46,116.46,True
+313,Maquillaje Ocasiones 313,BELLEZA,Maquillaje,93.88,173.99,True
+314,Accesorios He 314,Electronica,Accesorios,70.99,171.88,True
+315,Portatiles Dentro 315,electronica,Portatiles,8.39,14.08,True
+316,Ciclismo Tenían 316,deporte,Ciclismo,107.86,285.05,True
+317,Maquillaje Estaba 317,belleza,Maquillaje,78.22,164.12,True
+318,Smartphones Mayo 318,ELECTRONICA,Smartphones,18.75,36.96,True
+319,Cocina Mano 319,HOGAR,Cocina,81.29,135.24,True
+320,Camisetas Estados 320,moda,Camisetas,42.58,79.45,True
+321,Cuidado facial Hemos 321,belleza,Cuidado facial,5.95,10.61,True
+322,Accesorios de moda Ésta 322,Moda,Accesorios de moda,34.08,61.05,True
+323,Accesorios de moda Primero 323,moda,Accesorios de moda,20.61,54.32,True
+324,Ciclismo Mil 324,Deporte,Ciclismo,90.26,209.28,True
+325,Auriculares Memoria 325,ELECTRONICA,Auriculares,119.01,243.69,True
+326,Decoracion Conjunto 326,Hogar,Decoracion,15.78,33.23,True
+327,Cocina Atención 327,hogar,Cocina,89.27,215.87,True
+328,Auriculares Sino 328,ELECTRONICA,Auriculares,66.45,99.1,True
+329,Ciclismo Precisamente 329,Deporte,Ciclismo,44.72,82.49,True
+330,Smartphones Falta 330,ELECTRONICA,Smartphones,97.95,211.2,True
+331,Accesorios de moda Suficiente 331,MODA,Accesorios de moda,55.35,153.86,True
+332,Accesorios Hubo 332,electronica,Accesorios,-92.05,152.42,True
+333,Cocina Acuerdo 333,HOGAR,Cocina,17.96,27.47,True
+334,Perfumes Demasiado 334,BELLEZA,Perfumes,39.16,,True
+335,Ciclismo Francia 335,DEPORTE,Ciclismo,30.43,52.57,True
+336,Accesorios Primer 336,Electronica,Accesorios,28.49,75.36,True
+337,Accesorios Mayoría 337,Electronica,Accesorios,14.79,30.86,True
+338,Auriculares Va 338,Electronica,Auriculares,63.33,175.65,True
+339,Fitness Tipo 339,deporte,Fitness,19.47,36.93,True
+340,Accesorios Memoria 340,ELECTRONICA,Accesorios,145.51,378.07,True
+341,Muebles Camino 341,hogar,Muebles,123.11,,False
+342,Ciclismo Puerto 342,DEPORTE,Ciclismo,28.12,64.76,True
+343,Perfumes Tienen 343,Belleza,Perfumes,139.62,298.11,True
+344,Cocina Instituciones 344,HOGAR,Cocina,87.03,149.69,True
+345,Portatiles Estas 345,ELECTRONICA,Portatiles,116.12,183.54,True
+346,Smartphones Hubo 346,ELECTRONICA,Smartphones,50.58,98.03,True
+347,Running Permite 347,DEPORTE,Running,77.62,129.13,True
+348,Fitness Va 348,Deporte,Fitness,19.88,44.05,True
+349,Calzado Claro 349,moda,Calzado,45.43,98.67,True
+350,Ciclismo Conseguir 350,DEPORTE,Ciclismo,25.69,51.94,True
+351,Fitness Varias 351,deporte,Fitness,81.29,112.0,True
+352,Portatiles Capacidad 352,Electronica,Portatiles,52.48,78.81,True
+353,Pantalones Grande 353,moda,Pantalones,12.32,34.31,True
+354,Portatiles Actividades 354,Electronica,Portatiles,50.39,126.72,True
+355,Cocina Pasó 355,Hogar,Cocina,40.43,93.89,False
+356,Calzado Actual 356,Moda,Calzado,114.75,251.7,True
+357,Decoracion Atrás 357,hogar,Decoracion,72.32,138.69,True
+358,Decoracion Mayores 358,hogar,Decoracion,54.28,146.25,True
+359,Muebles Muchas 359,Hogar,Muebles,125.1,343.72,True
+360,Pantalones Tu 360,MODA,Pantalones,21.27,50.97,True
+361,Cuidado facial Instituto 361,belleza,Cuidado facial,140.94,221.54,True
+362,Cocina Todavía 362,HOGAR,Cocina,12.77,30.8,True
+363,Portatiles Atención 363,ELECTRONICA,Portatiles,87.45,224.11,True
+364,Ciclismo Constitución 364,deporte,Ciclismo,23.55,58.71,True
+365,Auriculares Marco 365,ELECTRONICA,Auriculares,32.64,50.44,True
+366,Ciclismo Ciencia 366,Deporte,Ciclismo,27.15,68.47,True
+367,Accesorios Ministro 367,ELECTRONICA,Accesorios,100.78,210.09,True
+368,Cuidado facial Tampoco 368,Belleza,Cuidado facial,55.75,145.83,True
+369,Decoracion Todas 369,Hogar,Decoracion,60.69,153.24,True
+370,Muebles Seguridad 370,HOGAR,Muebles,67.55,126.01,True
+371,Muebles Aquella 371,HOGAR,Muebles,71.01,124.41,True
+372,Portatiles Entrada 372,ELECTRONICA,Portatiles,112.9,231.91,True
+373,Cocina Dios 373,hogar,Cocina,37.14,,True
+374,Maquillaje Capaz 374,Belleza,Maquillaje,59.43,125.71,True
+375,Auriculares Doctor 375,ELECTRONICA,Auriculares,136.25,304.7,True
+376,Camisetas Real 376,Moda,Camisetas,20.18,54.68,True
+377,Smartphones Visto 377,electronica,Smartphones,95.27,171.71,True
+378,Running Mal 378,DEPORTE,Running,23.47,58.46,True
+379,Decoracion Cultura 379,Hogar,Decoracion,94.15,197.73,True
+380,Portatiles Administración 380,electronica,Portatiles,134.4,333.7,True
+381,Cuidado facial Dio 381,Belleza,Cuidado facial,25.3,44.72,True
+382,Maquillaje Práctica 382,belleza,Maquillaje,39.53,95.5,True
+383,Cuidado facial Población 383,Belleza,Cuidado facial,7.93,17.09,True
+384,Maquillaje Y 384,belleza,Maquillaje,115.08,300.95,True
+385,Decoracion Práctica 385,HOGAR,Decoracion,53.29,134.92,True
+386,Camisetas Pablo 386,moda,Camisetas,19.26,49.49,True
+387,Pantalones Idea 387,MODA,Pantalones,21.74,41.22,True
+388,Fitness Hay 388,deporte,Fitness,120.2,183.29,True
+389,Ciclismo Flores 389,Deporte,Ciclismo,36.7,87.47,True
+390,Muebles Capital 390,Hogar,Muebles,108.85,246.19,True
+391,Fitness Dios 391,DEPORTE,Fitness,105.01,222.0,False
+392,Portatiles Pocos 392,electronica,Portatiles,40.01,72.76,True
+393,Accesorios de moda Tales 393,moda,Accesorios de moda,29.69,79.05,True
+394,Muebles Mejor 394,Hogar,Muebles,88.76,,True
+395,Decoracion Premio 395,Hogar,Decoracion,70.91,192.94,True
+396,Accesorios Difícil 396,ELECTRONICA,Accesorios,25.54,55.66,False
+397,Ciclismo Llegado 397,DEPORTE,Ciclismo,77.37,,True
+398,Smartphones Don 398,ELECTRONICA,Smartphones,5.66,14.76,True
+399,Auriculares Al 399,Electronica,Auriculares,140.02,300.72,True
+400,Portatiles Fútbol 400,electronica,Portatiles,105.41,282.89,True
+401,Cocina Quedó 401,Hogar,Cocina,106.96,163.52,True
+402,Decoracion Parece 402,HOGAR,Decoracion,87.71,193.85,True
+403,Cuidado facial Nuestra 403,BELLEZA,Cuidado facial,65.35,157.14,True
+404,Fitness Viene 404,Deporte,Fitness,140.35,377.31,True
+405,Fitness Corazón 405,deporte,Fitness,69.27,101.82,True
+406,Camisetas Ojos 406,MODA,Camisetas,147.77,,True
+407,Accesorios de moda Manos 407,moda,Accesorios de moda,21.33,57.19,True
+408,Muebles Adelante 408,Hogar,Muebles,130.87,271.98,True
+409,Auriculares Vista 409,ELECTRONICA,Auriculares,89.92,170.71,True
+410,Accesorios Pero 410,electronica,Accesorios,11.05,19.92,True
+411,Calzado Proyecto 411,moda,Calzado,121.02,158.17,True
+412,Decoracion Alto 412,hogar,Decoracion,52.02,98.7,True
+413,Fitness Supuesto 413,DEPORTE,Fitness,82.0,219.74,True
+414,Muebles Presencia 414,HOGAR,Muebles,53.91,98.14,True
+415,Ciclismo Claro 415,deporte,Ciclismo,111.41,220.41,True
+416,Accesorios Miguel 416,Electronica,Accesorios,36.02,71.27,True
+417,Cocina Partidos 417,Hogar,Cocina,23.71,37.1,True
+418,Calzado Alrededor 418,Moda,Calzado,76.26,147.06,True
+419,Ciclismo Noche 419,DEPORTE,Ciclismo,137.48,253.46,True
+420,Running Vuelta 420,DEPORTE,Running,88.35,198.65,True
+421,Maquillaje Nadie 421,Belleza,Maquillaje,4.92,11.29,True
+422,Cuidado facial Lleva 422,Belleza,Cuidado facial,29.17,79.97,True
+423,Camisetas Justicia 423,Moda,Camisetas,24.85,47.76,True
+424,Muebles Interés 424,HOGAR,Muebles,15.55,43.47,True
+425,Pantalones Marco 425,Moda,Pantalones,76.82,168.47,True
+426,Perfumes Don 426,belleza,Perfumes,12.86,,True
+427,Running Hacer 427,Deporte,Running,33.86,89.63,True
+428,Running Otro 428,deporte,Running,33.16,52.59,True
+429,Maquillaje Relación 429,BELLEZA,Maquillaje,8.37,16.81,True
+430,Accesorios Nunca 430,ELECTRONICA,Accesorios,86.03,120.32,True
+431,Accesorios de moda Claro 431,MODA,Accesorios de moda,117.0,231.65,True
+432,Running Construcción 432,Deporte,Running,80.09,157.07,True
+433,Camisetas Siguiente 433,moda,Camisetas,61.91,132.45,True
+434,Auriculares Peor 434,electronica,Auriculares,25.82,40.61,True
+435,Auriculares Modelo 435,Electronica,Auriculares,129.68,352.62,True
+436,Maquillaje Evitar 436,BELLEZA,Maquillaje,57.88,98.75,True
+437,Fitness Resultados 437,deporte,Fitness,97.67,186.85,True
+438,Accesorios de moda Hicieron 438,Moda,Accesorios de moda,6.73,10.33,True
+439,Running Explicó 439,DEPORTE,Running,108.25,247.72,True
+440,Portatiles Blanca 440,ELECTRONICA,Portatiles,6.98,11.4,True
+441,Running Hasta 441,deporte,Running,36.97,85.32,False
+442,Maquillaje Felipe 442,BELLEZA,Maquillaje,5.9,8.59,True
+443,Camisetas Poner 443,moda,Camisetas,120.59,189.06,True
+444,Pantalones Ciento 444,moda,Pantalones,98.95,163.99,True
+445,Fitness Ejército 445,deporte,Fitness,17.62,29.33,True
+446,Smartphones J 446,Electronica,Smartphones,109.17,282.05,True
+447,Smartphones Reforma 447,electronica,Smartphones,125.04,237.05,True
+448,Maquillaje Éxito 448,BELLEZA,Maquillaje,101.21,162.69,True
+449,Cocina Nuevas 449,Hogar,Cocina,46.09,121.89,True
+450,Accesorios Mis 450,electronica,Accesorios,4.91,7.01,True
+451,Perfumes Unidos 451,belleza,Perfumes,33.56,44.96,True
+452,Fitness Parecía 452,DEPORTE,Fitness,29.67,64.52,True
+453,Cocina Elecciones 453,Hogar,Cocina,64.95,171.4,True
+454,Calzado Buen 454,Moda,Calzado,123.16,223.26,False
+455,Perfumes Así 455,Belleza,Perfumes,41.14,76.91,True
+456,Decoracion Estado 456,hogar,Decoracion,89.77,152.8,True
+457,Smartphones Vez 457,ELECTRONICA,Smartphones,94.75,181.36,True
+458,Running Bastante 458,deporte,Running,84.15,164.45,True
+459,Smartphones Ahí 459,Electronica,Smartphones,46.29,126.03,True
+460,Pantalones Tú 460,MODA,Pantalones,115.25,174.05,True
+461,Cocina Causa 461,hogar,Cocina,130.66,265.39,True
+462,Accesorios Interior 462,ELECTRONICA,Accesorios,134.5,336.22,True
+463,Accesorios Consejo 463,ELECTRONICA,Accesorios,65.51,87.37,True
+464,Smartphones Sistemas 464,Electronica,Smartphones,42.5,89.78,True
+465,Pantalones Aquel 465,Moda,Pantalones,96.12,162.14,True
+466,Decoracion Estos 466,Hogar,Decoracion,23.49,59.96,True
+467,Decoracion Atención 467,Hogar,Decoracion,147.71,308.5,True
+468,Perfumes Hoy 468,Belleza,Perfumes,28.24,48.25,True
+469,Fitness Rodríguez 469,DEPORTE,Fitness,5.7,15.23,True
+470,Calzado Llega 470,Moda,Calzado,20.31,43.97,True
+471,Accesorios Vida 471,electronica,Accesorios,43.29,92.26,True
+472,Cuidado facial Luz 472,BELLEZA,Cuidado facial,98.76,251.31,True
+473,Running Producto 473,deporte,Running,33.34,,True
+474,Maquillaje D 474,BELLEZA,Maquillaje,23.12,61.27,True
+475,Cocina Espacio 475,Hogar,Cocina,131.46,288.7,True
+476,Accesorios Solución 476,Electronica,Accesorios,91.28,209.72,True
+477,Fitness Tal 477,DEPORTE,Fitness,28.78,76.89,True
+478,Accesorios de moda Cama 478,MODA,Accesorios de moda,64.56,121.03,True
+479,Perfumes Toda 479,Belleza,Perfumes,79.28,108.65,True
+480,Smartphones Españoles 480,Electronica,Smartphones,27.44,66.05,True
+481,Pantalones Partir 481,Moda,Pantalones,15.17,33.45,True
+482,Cocina Energía 482,Hogar,Cocina,39.07,73.61,True
+483,Accesorios de moda Noche 483,moda,Accesorios de moda,45.44,83.31,True
+484,Maquillaje Fuentes 484,Belleza,Maquillaje,108.7,189.76,True
+485,Pantalones Tanto 485,moda,Pantalones,86.26,173.73,True
+486,Calzado Consejo 486,MODA,Calzado,100.56,272.04,True
+487,Accesorios Incluso 487,ELECTRONICA,Accesorios,110.69,179.58,True
+488,Decoracion Éste 488,hogar,Decoracion,7.58,12.84,True
+489,Smartphones Respuesta 489,ELECTRONICA,Smartphones,90.48,124.6,True
+490,Calzado Derechos 490,Moda,Calzado,75.97,166.77,True
+491,Cocina Mayo 491,HOGAR,Cocina,52.13,128.05,True
+492,Perfumes Existen 492,Belleza,Perfumes,18.67,26.38,True
+493,Accesorios de moda Público 493,moda,Accesorios de moda,110.04,224.84,True
+494,Muebles Civil 494,hogar,Muebles,104.2,203.42,True
+495,Cocina Conjunto 495,Hogar,Cocina,39.22,99.17,False
+496,Ciclismo Democracia 496,deporte,Ciclismo,120.51,282.24,True
+497,Cocina Dicho 497,hogar,Cocina,43.01,93.99,True
+498,Perfumes Cambios 498,belleza,Perfumes,56.06,80.58,True
+499,Cuidado facial Más 499,belleza,Cuidado facial,137.85,207.5,True
+500,Running Mejor 500,DEPORTE,Running,142.68,280.94,True
+501,Accesorios de moda Enero 501,MODA,Accesorios de moda,30.21,,True
+502,Smartphones Diciembre 502,Electronica,Smartphones,131.32,314.95,True
+503,Perfumes Tiempo 503,belleza,Perfumes,121.56,278.15,True
+504,Decoracion Área 504,Hogar,Decoracion,-104.76,,True
+505,Accesorios Puerto 505,electronica,Accesorios,39.7,80.76,True
+506,Smartphones Región 506,Electronica,Smartphones,35.52,98.8,True
+507,Cuidado facial Metros 507,Belleza,Cuidado facial,141.78,192.7,True
+508,Maquillaje Alrededor 508,belleza,Maquillaje,106.72,286.85,True
+509,Accesorios Varios 509,ELECTRONICA,Accesorios,29.54,63.57,True
+510,Decoracion Máximo 510,hogar,Decoracion,137.58,185.86,True
+511,Portatiles Temas 511,Electronica,Portatiles,105.52,184.24,True
+512,Ciclismo Único 512,Deporte,Ciclismo,138.89,382.86,True
+513,Accesorios de moda Trabajar 513,moda,Accesorios de moda,141.81,285.23,True
+514,Smartphones Volver 514,Electronica,Smartphones,129.72,332.97,True
+515,Pantalones Cara 515,moda,Pantalones,-49.91,126.94,True
+516,Accesorios Vino 516,Electronica,Accesorios,8.44,18.52,True
+517,Camisetas Violencia 517,MODA,Camisetas,36.81,54.51,True
+518,Portatiles Hizo 518,electronica,Portatiles,14.31,33.55,True
+519,Maquillaje Social 519,Belleza,Maquillaje,52.96,126.42,True
+520,Fitness Quienes 520,DEPORTE,Fitness,12.61,22.36,True
+521,Fitness Sigue 521,Deporte,Fitness,82.31,204.63,True
+522,Muebles Mí 522,hogar,Muebles,49.86,111.63,True
+523,Portatiles Mes 523,ELECTRONICA,Portatiles,133.24,296.3,False
+524,Pantalones Acción 524,MODA,Pantalones,37.25,49.79,True
+525,Ciclismo Aquella 525,DEPORTE,Ciclismo,-130.9,174.35,True
+526,Accesorios Cualquier 526,Electronica,Accesorios,131.58,275.45,True
+527,Camisetas Acciones 527,moda,Camisetas,141.04,352.34,True
+528,Ciclismo Explicó 528,Deporte,Ciclismo,149.7,273.36,True
+529,Smartphones Valores 529,electronica,Smartphones,115.78,220.32,True
+530,Perfumes Algunas 530,BELLEZA,Perfumes,73.54,164.82,True
+531,Camisetas Información 531,MODA,Camisetas,131.43,364.87,True
+532,Calzado Objeto 532,moda,Calzado,115.94,223.38,True
+533,Accesorios de moda Vino 533,moda,Accesorios de moda,64.94,156.27,True
+534,Pantalones Instituto 534,MODA,Pantalones,38.1,55.84,False
+535,Ciclismo O 535,deporte,Ciclismo,55.13,,True
+536,Smartphones Mejor 536,electronica,Smartphones,46.56,76.84,True
+537,Portatiles Ellos 537,electronica,Portatiles,9.19,12.19,True
+538,Auriculares Pudo 538,ELECTRONICA,Auriculares,148.2,287.75,True
+539,Portatiles Europa 539,electronica,Portatiles,59.5,138.01,True
+540,Camisetas Alto 540,Moda,Camisetas,35.08,95.59,True
+541,Pantalones Camino 541,MODA,Pantalones,118.59,170.07,True
+542,Running Mira 542,deporte,Running,64.38,168.59,True
+543,Fitness Nuevas 543,deporte,Fitness,141.88,283.92,True
+544,Calzado Vía 544,moda,Calzado,93.17,144.46,True
+545,Ciclismo Está 545,deporte,Ciclismo,148.7,244.98,True
+546,Portatiles Industria 546,Electronica,Portatiles,141.58,322.02,True
+547,Cuidado facial Gracias 547,belleza,Cuidado facial,92.34,191.05,True
+548,Pantalones Nos 548,Moda,Pantalones,36.91,57.76,True
+549,Fitness Etapa 549,deporte,Fitness,35.41,55.94,True
+550,Smartphones Crisis 550,Electronica,Smartphones,117.6,214.64,True
+551,Accesorios Vista 551,electronica,Accesorios,11.5,31.67,True
+552,Cocina Su 552,HOGAR,Cocina,132.92,,True
+553,Ciclismo Cine 553,DEPORTE,Ciclismo,149.25,232.96,True
+554,Portatiles Datos 554,Electronica,Portatiles,61.25,149.29,True
+555,Smartphones Este 555,electronica,Smartphones,105.32,161.23,True
+556,Muebles J 556,HOGAR,Muebles,122.93,201.19,True
+557,Fitness Mundial 557,DEPORTE,Fitness,35.9,75.59,True
+558,Maquillaje Cama 558,Belleza,Maquillaje,90.16,195.66,True
+559,Fitness Vía 559,Deporte,Fitness,16.45,43.04,True
+560,Maquillaje Iba 560,belleza,Maquillaje,42.04,,True
+561,Camisetas Supuesto 561,MODA,Camisetas,133.65,365.33,True
+562,Smartphones Seguir 562,electronica,Smartphones,129.73,326.18,True
+563,Ciclismo Estamos 563,deporte,Ciclismo,99.32,211.18,True
+564,Muebles Junto 564,Hogar,Muebles,15.79,30.2,True
+565,Muebles Izquierda 565,Hogar,Muebles,57.79,97.64,True
+566,Pantalones Aquella 566,MODA,Pantalones,109.34,223.47,True
+567,Maquillaje Muestra 567,Belleza,Maquillaje,14.91,24.31,True
+568,Decoracion Bien 568,hogar,Decoracion,103.44,146.28,True
+569,Decoracion Negro 569,HOGAR,Decoracion,128.13,261.73,True
+570,Calzado Después 570,moda,Calzado,73.65,161.19,True
+571,Smartphones Dejar 571,electronica,Smartphones,124.23,226.31,True
+572,Calzado Dijo 572,moda,Calzado,102.67,220.6,False
+573,Cuidado facial Términos 573,BELLEZA,Cuidado facial,42.25,110.61,True
+574,Cuidado facial Miguel 574,BELLEZA,Cuidado facial,120.22,275.02,True
+575,Ciclismo Felipe 575,deporte,Ciclismo,128.04,333.02,True
+576,Accesorios Mayor 576,electronica,Accesorios,107.13,273.77,True
+577,Portatiles Defensa 577,ELECTRONICA,Portatiles,105.53,244.85,True
+578,Accesorios de moda Sea 578,MODA,Accesorios de moda,93.94,228.19,True
+579,Decoracion Vía 579,Hogar,Decoracion,26.31,68.97,True
+580,Smartphones Próximo 580,ELECTRONICA,Smartphones,131.16,176.26,True
+581,Auriculares Santiago 581,electronica,Auriculares,124.4,185.77,True
+582,Ciclismo Tribunal 582,Deporte,Ciclismo,52.26,126.22,True
+583,Running Día 583,DEPORTE,Running,26.63,67.29,True
+584,Cocina Energía 584,hogar,Cocina,125.32,258.31,True
+585,Ciclismo Deseo 585,Deporte,Ciclismo,3.94,6.82,True
+586,Accesorios de moda Sigue 586,MODA,Accesorios de moda,93.69,259.69,True
+587,Accesorios Hubo 587,ELECTRONICA,Accesorios,95.88,162.01,True
+588,Running Iglesia 588,Deporte,Running,96.2,202.98,True
+589,Decoracion Juan 589,hogar,Decoracion,117.64,171.81,True
+590,Ciclismo Cierta 590,deporte,Ciclismo,-114.87,242.59,True
+591,Cocina E 591,HOGAR,Cocina,144.56,262.06,True
+592,Smartphones Llegado 592,electronica,Smartphones,-96.0,259.01,True
+593,Cocina Habrá 593,HOGAR,Cocina,18.07,48.89,True
+594,Cocina Arte 594,HOGAR,Cocina,104.12,145.95,True
+595,Cocina Aumento 595,HOGAR,Cocina,47.24,111.59,True
+596,Muebles Derecho 596,Hogar,Muebles,12.9,28.03,True
+597,Ciclismo Nuestros 597,Deporte,Ciclismo,53.84,120.14,True
+598,Ciclismo Puntos 598,deporte,Ciclismo,9.72,25.34,True
+599,Maquillaje Ii 599,Belleza,Maquillaje,146.1,402.26,True
+600,Auriculares Rodríguez 600,Electronica,Auriculares,113.2,169.25,True
+111,Calzado No 111,Moda,Calzado,99.67,214.54,True
+420,Running Vuelta 420,DEPORTE,Running,88.35,198.65,True
+566,Pantalones Aquella 566,MODA,Pantalones,109.34,223.47,True
+78,Ciclismo Modelo 78,deporte,Ciclismo,147.89,245.95,True
+182,Cocina Hacerlo 182,HOGAR,Cocina,70.36,149.05,False
+285,Accesorios Interés 285,ELECTRONICA,Accesorios,135.91,247.68,True
